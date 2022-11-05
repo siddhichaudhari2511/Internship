@@ -1,0 +1,246 @@
+.header{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    width: 100vw;
+    height:500px ;
+    /* border: blue 3px solid; */
+    padding-left: 10px;
+    background:url(https://thumbs.dreamstime.com/b/light-blue-sky-fluffy-white-clouds-background-paper-cartoon-shadow-can-be-used-as-border-icon-sign-element-web-design-174581057.jpg)
+}
+.box{
+    width:22vw;
+    height: 350px;
+
+    /* border: red 3px solid; */
+    border-radius: 7px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+
+}
+.yellow-box{
+    background-color: #C4A730 ;
+    box-shadow: 4px 4px #BC742A
+    ;
+
+}
+.pink-box{
+    background-color: #EE6688;
+    box-shadow: 4px 4px #BC742A
+    ;
+
+}
+.blue-box{
+    background-color:#338FE2
+    ;
+    box-shadow: 4px 4px #BC742A
+    ;
+
+}
+.green-box{
+    background-color: #86E160;
+    box-shadow: 4px 4px #BC742A
+    ;
+
+}
+.head1
+{
+    background-color: #897421;
+}
+.head2
+{
+    background-color: #BE515F;
+}
+.head3
+{
+    background-color: #212CB2
+    ;
+}
+.head4
+{
+    background-color: #3D8320
+    ;
+}
+
+
+
+.head{
+    text-align: center;
+    padding: auto;
+}
+
+
+
+.block
+{
+   /* border: 2px solid yellow;  */
+   margin: 20px;
+   /* margin-top: 60px; */
+   text-align: center;
+   padding: 15px;
+}
+
+
+.head{
+    width: 200px;
+    height: 30px;
+    border: 1px green solid;
+    border-radius:  30px;
+    margin-left: 27px;
+    margin-bottom: 10px;
+}
+img{
+    width:220px;
+    height:100px;
+    margin-top: 10px;
+    /* border:2px solid lightgreen; */
+    padding-left: 20px;
+    padding-right: 30px;
+
+}
+.para{
+    margin-top: 15px;
+    margin-bottom: 16px;
+}
+.button{
+    display: inline;
+    background-color: #86E160;
+}
+.middle-body{
+    background-color: #3D8320;
+    width: 100vw;
+    height: 420px;
+    color: aliceblue;
+    /* margin-bottom: 30px; */
+    
+}
+.mhead
+{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 3.7rem;
+}
+.para1{
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+
+.para2{
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+.bx1
+{width: 45vw;
+    /* border: #212CB2 solid 2px; */
+}
+.ibox1
+{
+    width: 200px;
+    /* border: 1px solid black; */
+}
+.ibox2
+{
+    width: 200px;
+    /* border: 1px solid rgb(174, 51, 51); */
+
+}
+.rimages
+{ width: 52vw;
+height: 350px;
+padding: 5px;
+margin: 10px;
+    /* border: #BC742A solid 2px; */
+}
+ul{
+    list-style: none;
+    padding: 0;
+
+}
+/* img{
+    border-radius: 50%;
+    border: 2px white solid;
+} */
+ .rimg1 
+{
+    width: 170px;
+    height: 130px;
+    /* display: inline; */
+    /* border: 2px solid rgb(249, 248, 248); */
+    border-radius:50%;
+
+    float: top;
+    margin-left: 30px;
+}
+.rimg2
+{
+    width: 209px;
+    height: 180px;
+    /* border: 2px solid rgb(252, 251, 251); */
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 100px;
+    /* float: right; */
+    z-index: 1;
+}
+.rimg3
+{width: 300px;
+    height: 280px;
+    /* border: 2px solid rgb(245, 241, 241); */
+    border-radius: 50%;
+    /* margin-left: 170px; */
+    /* position: fixed; */
+
+    float: right;
+    z-index: 2;
+    
+} 
+.last img {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 50vh;
+    object-fit: fill;
+    /* border: 2px red solid; */
+
+}
+footer{
+    background-color: #EE6688;
+    height:63vh ;
+    color: white;
+}
+.foot-head{
+    text-align: center;
+    padding-top: 30px;
+}
+.pic{
+    /* border: blue 3px solid; */
+    text-align: center;
+}
+
+.fi1 img
+{
+    width:15vw;
+    height: 180px;
+    /* border: white 3px solid; */
+    border-radius: 40% 50%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;}
+    .fi1 img{
+        
+            border-radius: 50%;
+          
+    }
+.fpara{
+    text-align: center;
+    padding-bottom: 10px;
+}
